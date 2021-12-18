@@ -14,7 +14,7 @@
 
 ### Benchmark Results
 
--   How many attemts takes random wise algorithm to find what number is in range 1..100
+-   How many attempts takes random wise algorithm to find what number is in range 1..100
 
 ### Scheme
 
