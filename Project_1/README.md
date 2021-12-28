@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Guess a number game with less attempts</h3>
+<h3 align="center">Анализ вакансий из HeadHunter</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Works with Tasks:
 
--   practice of writing perfect Python code
+-   базовый анализ структуры данных
 -   practice with IDE
 -   publish project on Git
 
