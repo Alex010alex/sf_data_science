@@ -9,41 +9,36 @@
 ## Works with Tasks:
 
 -   базовый анализ структуры данных
--   practice with IDE
--   publish project on Git
+-   преобразование данных
+-   разведывательный анализ
+-   очистка данных
 
 ### Benchmark Results
 
--   How many attempts takes random wise algorithm to find what number is in range 1..100
-
-### Scheme
-
-
-### Features
-
+-   Final 'hh_db' dataframe that cleaned and ready to export
 
 ### Installation
 
+-   [Source data file](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
 ### Docs
 
 
-### 🚀 Examples
-
-
 ## What's inside
 
-
-- game_v2 - source code file
-- game_v3 - exec code file
-- jupiter file - to present result
-
+- Ноутбук-шаблон_Project_1 - main code
+- data/dst-3.0_16_1_hh_database.csv - source CSV file
+- data/ExchangeRates.csv - supplimental CSV file
 
 ### Works with Features
 
+- В проекте использованы библиотеки NumPy, Pandas и
+- библиотеки для вывода данных MathPlotLib, Seaborn, Plotty
 
 ### Note
 
+- Пример работы с набором данных для подготовки к построению модели,
+- которая сможет спрогнозировать зарплатные ожидания соискателя на должность
 
 ## Contact
 
